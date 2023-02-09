@@ -1,0 +1,238 @@
+ID Funcionário;Nome Completo;ID Cliente
+1;Gabriel Mesquita;137
+3;Amanda Marques Ribeiro;101
+3;Amanda Marques Ribeiro;227
+4;Guilherme Nunez;22
+4;Guilherme Nunez;51
+4;Guilherme Nunez;63
+4;Guilherme Nunez;182
+4;Guilherme Nunez;311
+5;Adelino Gomes;97
+7;Zilma Guimarães;106
+7;Zilma Guimarães;117
+7;Zilma Guimarães;223
+7;Zilma Guimarães;272
+8;Gil Bonder;218
+8;Gil Bonder;246
+9;Gustavo de Melo Teixeira;26
+9;Gustavo de Melo Teixeira;79
+10;Andre Campos;61
+11;André Melo Soledade;9
+11;André Melo Soledade;128
+11;André Melo Soledade;212
+13;Luca Costa;206
+14;Jessica Oliveira Lima;310
+16;Vinicius Freitas;186
+16;Vinicius Freitas;240
+17;Pedro Carrera;2
+17;Pedro Carrera;45
+17;Pedro Carrera;200
+17;Pedro Carrera;242
+18;Isabella Bernardo;233
+22;Bruno Vargas;191
+22;Bruno Vargas;320
+23;Bárbara Spenchutt Vieira;150
+23;Bárbara Spenchutt Vieira;172
+23;Bárbara Spenchutt Vieira;293
+24;Andre Ramos;93
+24;Andre Ramos;130
+24;Andre Ramos;208
+25;Livia Mello;304
+26;Jéssica Neves Heimlich;205
+26;Jéssica Neves Heimlich;306
+27;Carolina Monteiro;21
+27;Carolina Monteiro;91
+27;Carolina Monteiro;146
+27;Carolina Monteiro;196
+28;Luís Werneck;76
+28;Luís Werneck;201
+29;Cícero Barcelos Tagliari;185
+29;Cícero Barcelos Tagliari;260
+31;Thayná Freitas Medronho;147
+31;Thayná Freitas Medronho;195
+31;Thayná Freitas Medronho;255
+32;Marina Silva Pacheco;60
+32;Marina Silva Pacheco;112
+34;Vitor Cordovil de Maglhães;179
+34;Vitor Cordovil de Maglhães;226
+34;Vitor Cordovil de Maglhães;235
+35;Carolina Gaspar de Mattos      ;155
+35;Carolina Gaspar de Mattos      ;203
+36;Victor Mota;49
+36;Victor Mota;56
+36;Victor Mota;68
+37;Marcos Almeida Albuquerque Faria;5
+37;Marcos Almeida Albuquerque Faria;15
+37;Marcos Almeida Albuquerque Faria;40
+37;Marcos Almeida Albuquerque Faria;144
+37;Marcos Almeida Albuquerque Faria;238
+38;Marcelo Amaral Coelho;202
+38;Marcelo Amaral Coelho;276
+39;Tomas Guadagnino;28
+39;Tomas Guadagnino;282
+44;Matheus Pereira dos Santos;102
+44;Matheus Pereira dos Santos;160
+44;Matheus Pereira dos Santos;283
+45;Mariana Martins;37
+46;Rafael Rozental;241
+47;Rodrigo e Silva Lemos;99
+47;Rodrigo e Silva Lemos;171
+47;Rodrigo e Silva Lemos;219
+47;Rodrigo e Silva Lemos;236
+47;Rodrigo e Silva Lemos;259
+47;Rodrigo e Silva Lemos;278
+48;Marianna Pereira da Silva;115
+49;Roberto Suzano;57
+49;Roberto Suzano;65
+49;Roberto Suzano;84
+49;Roberto Suzano;151
+51;Matheus Sepúlveda;11
+51;Matheus Sepúlveda;110
+51;Matheus Sepúlveda;247
+51;Matheus Sepúlveda;295
+52;Jéssica de Morais Silva;48
+52;Jéssica de Morais Silva;55
+52;Jéssica de Morais Silva;296
+54;Patrick da Silva Farias ;10
+54;Patrick da Silva Farias ;77
+54;Patrick da Silva Farias ;161
+54;Patrick da Silva Farias ;204
+57;Raissa Carelli;113
+57;Raissa Carelli;290
+58;Lorena Marinho;105
+58;Lorena Marinho;245
+58;Lorena Marinho;261
+60;Fillipe Tupini;108
+60;Fillipe Tupini;129
+60;Fillipe Tupini;157
+60;Fillipe Tupini;167
+62;Luiz Guarçoni Migueis;29
+62;Luiz Guarçoni Migueis;190
+62;Luiz Guarçoni Migueis;248
+64;Douglas Costa;46
+65;João Ramos;14
+65;João Ramos;307
+66;Poline Limp;249
+67;Carla Amiccuci Areias;1
+67;Carla Amiccuci Areias;78
+67;Carla Amiccuci Areias;125
+67;Carla Amiccuci Areias;175
+68;Fernanda Rossini;86
+68;Fernanda Rossini;188
+68;Fernanda Rossini;214
+68;Fernanda Rossini;220
+69;Leandro Almeida Neri;82
+69;Leandro Almeida Neri;89
+69;Leandro Almeida Neri;133
+70;Luiz Rodrigues Chaves;174
+71;Leonardo Valença Castro;24
+72;Lucas Duarte;317
+73;José Rodrigues Pereira;80
+73;José Rodrigues Pereira;152
+74;Átila Godoy de Melo;7
+74;Átila Godoy de Melo;30
+74;Átila Godoy de Melo;302
+76;Lucas de Jesus;33
+76;Lucas de Jesus;253
+76;Lucas de Jesus;273
+76;Lucas de Jesus;285
+77;Bruno de Souza;134
+77;Bruno de Souza;148
+77;Bruno de Souza;244
+77;Bruno de Souza;252
+79;Larissa Coutinho Beltrao;308
+80;Frederico Vidal;39
+80;Frederico Vidal;47
+80;Frederico Vidal;138
+80;Frederico Vidal;187
+83;Larissa do Nascimento Lima;8
+83;Larissa do Nascimento Lima;92
+84;Fernanda Castro Morett Ceppas;118
+84;Fernanda Castro Morett Ceppas;250
+84;Fernanda Castro Morett Ceppas;267
+84;Fernanda Castro Morett Ceppas;279
+84;Fernanda Castro Morett Ceppas;301
+85;Rodrigo dos Santos Villares Vianna;224
+86;Felipe Jordão Teixeira;35
+86;Felipe Jordão Teixeira;104
+86;Felipe Jordão Teixeira;239
+86;Felipe Jordão Teixeira;281
+88;Aline de Souza;36
+88;Aline de Souza;140
+90;Bruna Tavares Vasconcelos;177
+90;Bruna Tavares Vasconcelos;319
+92;Alberto Ruzza de Carvalho;142
+92;Alberto Ruzza de Carvalho;169
+93;Rafael Hollander;198
+94;Marina Vasconcelos de Sousa;88
+94;Marina Vasconcelos de Sousa;251
+97;João Fagundes;20
+97;João Fagundes;230
+99;Rafael Viana Santos;309
+100;Juliana Vieira Filho;25
+100;Juliana Vieira Filho;131
+100;Juliana Vieira Filho;280
+101;Victoria Nascimento Viríssimo;18
+102;Adriano de Souza;66
+103;Rodrigo Barreto;211
+103;Rodrigo Barreto;288
+103;Rodrigo Barreto;294
+105;Roberta Vaz;13
+105;Roberta Vaz;136
+109;Bruna Calmon;145
+109;Bruna Calmon;197
+109;Bruna Calmon;215
+109;Bruna Calmon;292
+110;Higor Frossard;87
+110;Higor Frossard;116
+110;Higor Frossard;176
+111;Daniela Santos Silva;111
+111;Daniela Santos Silva;121
+111;Daniela Santos Silva;315
+112;Matheus Sone;194
+112;Matheus Sone;311
+113;Aline Santos Silva;27
+116;Bruno Cunha Felippe;4
+116;Bruno Cunha Felippe;44
+116;Bruno Cunha Felippe;229
+118;Lucas Martins;75
+118;Lucas Martins;228
+119;Hanna Vaz;31
+119;Hanna Vaz;109
+121;Paulo Rodrigues Pereira;16
+121;Paulo Rodrigues Pereira;303
+122;Thaís Lisboa;19
+122;Thaís Lisboa;132
+122;Thaís Lisboa;291
+123;Thomaz Wegbrayt;103
+123;Thomaz Wegbrayt;305
+124;Carolina Gonçalves Lixa Fontoura;159
+124;Carolina Gonçalves Lixa Fontoura;257
+124;Carolina Gonçalves Lixa Fontoura;287
+124;Carolina Gonçalves Lixa Fontoura;316
+125;Débora Pereira Ribeiro;163
+127;Isabelle de Sá Foly;271
+130;Mylena Pinheiro Mariano;6
+131;Renan Taylor;153
+132;João Barbosa;264
+132;João Barbosa;286
+135;Caroline Valente de Figueiredo;43
+135;Caroline Valente de Figueiredo;168
+135;Caroline Valente de Figueiredo;213
+135;Caroline Valente de Figueiredo;237
+137;Stefan Vargas;221
+138;Maria Lopes de Almeida;225
+138;Maria Lopes de Almeida;243
+138;Maria Lopes de Almeida;277
+139;Paloma Albano;64
+139;Paloma Albano;297
+142;Gabriel Mello;52
+142;Gabriel Mello;81
+142;Gabriel Mello;85
+144;Lucas Brum Pereira;149
+144;Lucas Brum Pereira;173
+144;Lucas Brum Pereira;199
+148;Caio Stellet;67
+148;Caio Stellet;123
+148;Caio Stellet;192
+150;Eduardo Brum;12
